@@ -41,7 +41,7 @@ Mettre en évidence l’influence des facteurs étudiés sur l’acceptation de 
 
 Présentation du choix de modélisation, des outils, du code et des résultats (tableaux, courbes, animations...) (**avec une analyse critique**).
 
-## Lien vers page de blog : <a href="blog.html"> C'est ici ! </a>
+## Lien vers page de blog : <a href="blog.md"> C'est ici ! </a>
 
 ## Bibliographie :
 
