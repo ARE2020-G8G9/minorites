@@ -17,9 +17,9 @@ H. Authier, M. Coumbassa, P. Crabtree et A. Guetsa
 
 **Hypothèse principale :**
 
-- Sur le long terme, on va soit vers une exclusion totale du groupe soit vers une acceptation totale ; et on tend à aller davantage vers une acceptation totale.
+- Sur le long terme, on aboutit soit à une acceptation "totale" soit à une exclusion "totale" de la minorité, et il y a davantage tendance à ce qu'on aboutisse à une acceptation ; il restera peut-être un petit pourcentage de rejet mais il sera minoritaire et tendra à devenir négligeable au fil du temps.
 
-**Hypothèses secondaires :** 
+**Hypothèses secondaires (hypothèses de travail) :** 
 
 - Pour faciliter le travail de recherche et pouvoir se baser sur davantage d’études, on considère l’ensemble des personnes LGBTI (lesbiennes, gays, bisexuel-les, trans, intersexes) comme un groupe uni, concerné par les mêmes discriminations.
 - On considère que l’appartenance au groupe LGBTI est autodéterminée (ie les individus déterminent elles/eux-mêmes si elles/ils sont LGBTI ou non).
@@ -38,6 +38,8 @@ Mettre en évidence l’influence des facteurs étudiés sur l’acceptation de 
 
 
 ## Présentation structurée des résultats
+### Idée de modélisation :
+A une échelle fixée de façon à être à la fois représentative et raisonnable en terme de puissance de calcul (par exemple 100 individus, soit un carré de 10x10 cases), où chaque individu est représenté par une case, on fixe un seuil d'acceptation (par exemple 50 sur 100). On peut définir par exemple quatre couleurs, vert, jaune, rouge, violet : où vert = au-dessus du seuil d'acceptation, jaune = autour du seuil (par exemple entre 45 et 55 si le seuil est à 50), rouge = au-dessous, et violet = les personnes LGBTI. Un avantage de cette modélisation est qu'en plus d'être assez visuellement claire, elle permet de voir directement le lien entre le nombre de personnes LGBTI, leur isolement etc. et le taux d'acceptation dans leur environnement.
 
 Présentation du choix de modélisation, des outils, du code et des résultats (tableaux, courbes, animations...) (**avec une analyse critique**).
 
