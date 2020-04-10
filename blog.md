@@ -11,6 +11,7 @@ En raison du confinement nous avions eu quelques difficultés à nous organiser 
 Nous avons terminé nos recherches documentaires et commencé à réfléchir à la modélisation. Nous devons encore travailler notre modèle et nos hypothèses, en prenant en compte notamment les retours par rapport à notre présentation : ainsi nous devons retravailler nos hypothèses et réfléchir plus précisément à la façon dont nous allons modéliser notre problématique. Nous avons encore un peu de mal à nous organiser dans notre travail en raison des circonstances.
 
 ### Semaine 3 : semaine du 7 avril
+Nous continuons à travailler sur la modélisation afin de pouvoir commencer le code le plus rapidement possible. Nous continuons aussi à mettre à jour le site (notamment l'index avec l'hypothèse principale et la carte mentale).
 
 ###...
 
