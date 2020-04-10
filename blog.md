@@ -14,4 +14,4 @@ Nous avons terminé nos recherches documentaires et commencé à réfléchir à 
 
 ###...
 
-<a href="index.html"> Retour à la page principale </a>
+<a href="index.md"> Retour à la page principale </a>
