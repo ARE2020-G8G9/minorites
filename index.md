@@ -40,6 +40,9 @@ Mettre en évidence l’influence des facteurs étudiés sur l’acceptation de 
 ## Présentation structurée des résultats
 ### Idée de modélisation :
 A une échelle fixée de façon à être à la fois représentative et raisonnable en terme de puissance de calcul (par exemple 100 individus, soit un carré de 10x10 cases), où chaque individu est représenté par une case, on fixe un seuil d'acceptation (par exemple 50 sur 100). On peut définir par exemple quatre couleurs, vert, jaune, rouge, violet : où vert = au-dessus du seuil d'acceptation, jaune = autour du seuil (par exemple entre 45 et 55 si le seuil est à 50), rouge = au-dessous, et violet = les personnes LGBTI. Un avantage de cette modélisation est qu'en plus d'être assez visuellement claire, elle permet de voir directement le lien entre le nombre de personnes LGBTI, leur isolement etc. et le taux d'acceptation dans leur environnement.
+Nous fixons tout d'abord des conditions initiales (un certain nombre de personnes LGBTI en fonction des statistiques en France puis les différents critères d'évaluation comme le taux de population acceptante, l'influence des lois, etc. pour établir le taux de personnes acceptantes, "neutres" ou non-acceptantes.). Cela permet d'avoir une population initiale que nous affichons. 
+Ensuite, en s'inspirant du modèle de Schelling, nous parcourons chaque individu non-LGBTI un par un et éventuellement modifions son taux d'acceptation en fonction de son entourage : on suppose que si une personne a beaucoup de personnes LGBTI ou acceptantes dans son entourage elle est plus susceptible de changer d'avis au bout d'un certain temps et donc de voir son taux modifié, etc. On peut considérer toutefois que les personnes ayant un taux extrême (très bas ou très élevé) seront moins promptes à changer d'avis.
+On peut considérer que chaque parcours de la population correspond à un intervalle de temps (par exemple un mois). Au bout de chaque mois on affiche le nouvel état de la population, et on arrête l'algorithme lorsqu'on a atteint un temps prédéfini ou alors que la situation est stable (ie n'a pas évolué depuis plus d'un certain nombre de tours).
 
 Présentation du choix de modélisation, des outils, du code et des résultats (tableaux, courbes, animations...) (**avec une analyse critique**).
 
@@ -49,4 +52,18 @@ Présentation du choix de modélisation, des outils, du code et des résultats (
 
 **Carte mentale de nos mots-clés :** <a href="carte mentale v2.png">ici </a> 
 
-Liste de l'ensemble des ressources bibliographiques utilisées pour vos travaux. **<= Indiquez le canal utilisé pour les trouver (Google Scholar, sources wikipedia, ressources en ligne SU, ...)**
+** Ressources bibliographiques : **
+
+<a href="https://www.lexpress.fr/actualite/societe/les-5-ans-du-mariage-pour-tous-en-5-chiffres_2001646.html"> Les 5 ans du mariage pour tous en 5 chiffres </a> par Emilie Tôn
+Article journalistique de 2018, de L’express
+
+<a href=https://fr.wikipedia.org/wiki/Mariage_homosexuel> Mariage homosexuel</a> 
+Page Wikipédia, source secondaire 
+ 
+<a href="https://www.lemonde.fr/societe/article/2019/06/26/meme-si-l-homosexualite-est-mieux-acceptee-des-poches-d-homophobie-demeurent-en-france_5481512_3224.html"> Même si l’homosexualité est mieux acceptée, des poches d’homophobie demeurent en France </a> de Solène Cordier
+Article de journal de Le Monde, de 2019
+
+Les indicateurs sociaux de l’OCDE : Comment améliorer l’intégration des minorités sexuelles et de genre, chapitre 1 
+Métaétude de 2019, PDF
+
+**<= Indiquez le canal utilisé pour les trouver (Google Scholar, sources wikipedia, ressources en ligne SU, ...)**
