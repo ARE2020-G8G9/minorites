@@ -56,7 +56,7 @@ Présentation du choix de modélisation, des outils, du code et des résultats (
 
 **Carte mentale de nos mots-clés :** <a href="carte mentale v2.png">ici </a> 
 
-** Ressources bibliographiques : **
+**Ressources bibliographiques : **
 
 <a href="https://www.lexpress.fr/actualite/societe/les-5-ans-du-mariage-pour-tous-en-5-chiffres_2001646.html"> Les 5 ans du mariage pour tous en 5 chiffres </a> par Emilie Tôn
 Article journalistique de 2018, de L’express
@@ -67,7 +67,8 @@ Page Wikipédia, source secondaire
 <a href="https://www.lemonde.fr/societe/article/2019/06/26/meme-si-l-homosexualite-est-mieux-acceptee-des-poches-d-homophobie-demeurent-en-france_5481512_3224.html"> Même si l’homosexualité est mieux acceptée, des poches d’homophobie demeurent en France </a> de Solène Cordier
 Article de journal de Le Monde, de 2019
 
-Les indicateurs sociaux de l’OCDE : Comment améliorer l’intégration des minorités sexuelles et de genre, chapitre 1 
+<a href="https://www.oecd.org/fr/publications/panorama-de-la-societe-19991304.htm"> Les indicateurs sociaux de l’OCDE : Comment améliorer l’intégration des minorités sexuelles et de genre </a>, chapitre 1 
+
 Métaétude de 2019, PDF
 
 **<= Indiquez le canal utilisé pour les trouver (Google Scholar, sources wikipedia, ressources en ligne SU, ...)**
