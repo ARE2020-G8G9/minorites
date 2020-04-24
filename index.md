@@ -71,4 +71,7 @@ Article de journal de Le Monde, de 2019
 
 Métaétude de 2019, PDF
 
+<a href=https://courspython.com/animation-matplotlib.html> Apprendre à réaliser une animation avec matplotlib</a>
+Ressource utilisée pour le rendu graphique du code. (Nous avons également utilisé les documentations de numpy et matplotlib)
+
 **<= Indiquez le canal utilisé pour les trouver (Google Scholar, sources wikipedia, ressources en ligne SU, ...)**
