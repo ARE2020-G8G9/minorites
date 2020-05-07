@@ -18,4 +18,9 @@ Nous avons une bonne idée de la façon dont nous allons modéliser notre probl�
 ### Semaine 5 : Semaine du 20 avril
 Après avoir affiné notre idée de modélisation, nous avons presque terminé notre programme et réussi à obtenir un rendu graphique satisfaisant à l'aide des modules numpy et matplotlib (nous avions aussi envisagé d'utiliser tkinter en se basant sur le modèle de Schelling, mais nous avons finalement préféré nous concentrer sur des bibliothèques que nous maîtrisions mieux). Il nous reste à déterminer plus précisément la valeur des paramètres que nous fixons et ceux que nous faisons fluctuer, en nous basant sur notre recherche documentaire, ainsi qu'à mener les tests qui nous permettront de tirer des conclusions et de vérifier (ou non) notre hypothèse de départ.
 
+### Semaines 6 et 7 : 27 avril et 4 mai (par H. Authier)
+Le corps du programme étant fini, nous avons travaillé sur quelques modifications pour faciliter l'utilisation de notre programme ; notamment une partie ''input'' qui permet à l'utilisateur de pouvoir exploiter toutes les possibilités de notre modèle en choisissant les valeurs des paramètres.
+Nous avons effectué aussi des batteries de tests, pour comparer si notre modèle collait bien à ce qu'on avait pu lire ; et en tâtonnant, nous avons pu fixer les constantes (comme le pourcentage d'influence)
+Enfin nous avons rédigé un rapport final critique des réussites et faiblesses de notre méthode et de notre modèle.
+
 <a href="index.md"> Retour à la page principale </a>
