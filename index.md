@@ -56,8 +56,9 @@ On peut considérer que chaque parcours de la population correspond à un interv
 
 ### Résultats de la modélisation :
 
-**Présentation du programme Python permettant d'afficher une modélisation avec des paramètres que l'on choisit :** <a href= "code ARE minorites version finale.py" ici </a>
-**Présentation de nos résultats en faisant varier différents paramètres :** <a href= "Tests variation paramètres.pdf" ici </a>
+**Présentation du programme Python permettant d'afficher une modélisation avec des paramètres que l'on choisit :** <a href="code ARE minorites version finale.py"> ici </a>
+
+**Présentation de nos résultats en faisant varier différents paramètres :** <a href="Tests variation paramètres.pdf"> ici </a> 
 
 
 ### Interprétation de notre modèle, ressemblance avec la réalité, analyse critique :
